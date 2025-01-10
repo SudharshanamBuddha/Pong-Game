@@ -30,3 +30,7 @@ A classic Pong game built using Python's `turtle` module, where two players cont
 2. Ensure that Python 3.x is installed on your system 🔧.
 3. Run the `Pong Game.py` file to start the game 🏁.
 
+## Preview📸
+![image](https://github.com/user-attachments/assets/6fdb4319-b39a-4a3a-af46-2155143e78b4)
+
+![image](https://github.com/user-attachments/assets/1444c0a0-3b26-402a-9021-3d02bc8a6c6a)
